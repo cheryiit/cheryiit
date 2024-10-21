@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yigit</h1>
-<h3 align="center">A Computer Engineer student from Turkey 3/4.</h3>
+<h3 align="center">A Computer Engineer student from Turkey 4/4.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheryiit&label=Profile%20views&color=0e75b6&style=flat" alt="cheryiit" /> </p>
 
