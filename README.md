@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheryiit" alt="cheryiit" /></a> </p>
 
-- 🌱 I’m currently learning ** Data Science, AI, ML**
+- 🌱 I’m currently learning **Backend frameworks such as Django, Spring boot. I'm also interested in Data Science, AI, and ML.**
 
 - 📫 How to reach me **yigitkirazus@gmail.com**
 
