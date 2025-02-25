@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yigitkirazus@gmail.com**
 
-- ⚡ Fun fact **I am CE student 3/4, Code lover and professional chess player.**
+- ⚡ Fun fact **I am CE student 4/4, Code lover and professional chess player.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
